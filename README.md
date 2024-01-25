@@ -1,4 +1,4 @@
-# Task 7: How to setup an AWS Site-to-Site (S2S) VPN Connection
+# Task 8: How to setup an AWS Site-to-Site (S2S) VPN Connection
 ## <center>Architecture Diagram</center>
 ![no_image](https://labresources.whizlabs.com/16b946592707a2ad9ff58e2c0491a2b5/image46.png)
 
